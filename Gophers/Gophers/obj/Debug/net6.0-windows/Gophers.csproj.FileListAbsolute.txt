@@ -1,0 +1,17 @@
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\bin\Debug\net6.0-windows\Gophers.exe
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\bin\Debug\net6.0-windows\Gophers.deps.json
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\bin\Debug\net6.0-windows\Gophers.runtimeconfig.json
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\bin\Debug\net6.0-windows\Gophers.dll
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\bin\Debug\net6.0-windows\Gophers.pdb
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.csproj.AssemblyReference.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.Form1.resources
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.csproj.GenerateResource.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.AssemblyInfoInputs.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.AssemblyInfo.cs
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.csproj.CoreCompileInputs.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.dll
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\refint\Gophers.dll
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.pdb
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\Gophers.genruntimeconfig.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\Gophers\Gophers\Gophers\obj\Debug\net6.0-windows\ref\Gophers.dll
